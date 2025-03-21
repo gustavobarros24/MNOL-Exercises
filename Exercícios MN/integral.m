@@ -1,0 +1,1 @@
+ Q=integral(@(x)sqrt(1+(-exp(-x)).^2),0,1);
